@@ -116,7 +116,6 @@ else:
 
 
 # ===== PARTE 2: HISTOGRAMAS =====
-# Ajustá la ruta donde tengas estas imágenes
 img1_path = "white_patch/img1_tp.png"
 img2_path = "white_patch/img2_tp.png"
 
